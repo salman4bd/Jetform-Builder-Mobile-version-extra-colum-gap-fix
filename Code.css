@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .jet-form-builder .wp-block-column {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+}
